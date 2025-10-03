@@ -1,5 +1,5 @@
 # BuildForGood Bot 🤖
-📌 This project is part of the BuildForGood ecosystem — a multi-project public goods initiative for Optimism.  
+📌 **This project is part of the BuildForGood ecosystem — a multi-project public goods initiative for Optimism**.  
 
 
 
@@ -50,7 +50,7 @@ This site is more than a bot — it's a curated archive of public goods built wi
 This is a public good submitted for RetroPGF — by one builder, for many builders.
 
 ## 🌍 BuildForGood Ecosystem  
-This project is part of the BuildForGood Ecosystem for Optimism.  
+**This project is part of the BuildForGood Ecosystem for Optimism**.  
 
 📖 Books & Articles • 🕹 Games • 🖼 NFTs & Memes • 🌍 Onchain Artifacts • 🎥 Media  
 
