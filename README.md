@@ -1,4 +1,6 @@
 # BuildForGood Bot 🤖
+📌 This project is part of the BuildForGood ecosystem — a multi-project public goods initiative for Optimism.  
+
 
 An interactive contribution hub by @stephan1516417, a solo builder for the Optimism Collective.
 
@@ -45,3 +47,11 @@ This site is more than a bot — it's a curated archive of public goods built wi
 
 ## ❤️ Built with Optimism
 This is a public good submitted for RetroPGF — by one builder, for many builders.
+
+## 🌍 BuildForGood Ecosystem  
+This project is part of the BuildForGood Ecosystem for Optimism.  
+
+📖 Books & Articles • 🕹 Games • 🖼 NFTs & Memes • 🌍 Onchain Artifacts • 🎥 Media  
+
+🔗 Explore the full ecosystem: [BuildForGood Ecosystem on Optimism Atlas](https://atlas.optimism.io/profile/organizations/BuildForGood%20Ecosystem)
+---
